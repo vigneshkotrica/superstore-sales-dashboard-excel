@@ -1,6 +1,6 @@
 # 📊 Superstore Sales Dashboard (Microsoft Excel)
 
-![Dashboard](Images/dashboard.png)
+![Dashboard](Images/Dashboard.png)
 
 ## 📌 Project Overview
 
@@ -67,7 +67,7 @@ This project analyzes the Sample Superstore retail dataset using Microsoft Excel
 
 ## 🖼 Dashboard Preview
 
-![Dashboard Preview](Images/dashboard.png)
+![Dashboard Preview](Images/Dashboard.png)
 
 ---
 
@@ -108,7 +108,7 @@ Superstore-Sales-Dashboard/
 │   └── SampleSuperstore.csv
 │
 ├── Images/
-│   └── dashboard.png
+│   └── Dashboard.png
 │
 ├── README.md
 │
